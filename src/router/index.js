@@ -12,6 +12,7 @@ const routes = [
         path: '/',
         name: 'HOME',
         component: HomePage
+        
     },
     ...channelRouter,
     ...canvasRouter,
